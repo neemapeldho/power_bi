@@ -109,6 +109,7 @@ The report follows a **star schema**:
 
 <img width="1312" height="728" alt="Screenshot 2026-04-27 131028" src="https://github.com/user-attachments/assets/3780257c-3d15-42a1-932f-a786e5dedbea" />
 
+---
 
 <img width="1316" height="737" alt="Screenshot 2026-04-27 131137" src="https://github.com/user-attachments/assets/b7d2de7a-a96e-4a2e-8424-1413ed44b9db" />
 
